@@ -1,4 +1,4 @@
-# BCM02 Automation Script
+# BCM02 JavaScript 自動化腳本
 
 這是一個用於自動化執行 BCM02 報表填寫流程的 JavaScript 腳本。
 
